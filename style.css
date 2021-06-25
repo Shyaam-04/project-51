@@ -1,0 +1,40 @@
+.menu{
+    background-color:darkred;
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.body {
+    background-color: peru;
+    color: blanchedalmond;
+    font-size: 80;
+    padding:10px;
+    margin-top: 20px;
+}
+.body p{
+    font-size: 30px;
+}
+.p{
+    color: chartreuse;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.origami{
+    background-color: chartreuse;
+    padding:1;
+    margin: 50px;
+
+    border: solid;
+    color: black;
+    
+}
+body{
+    background-color: aqua;
+}
